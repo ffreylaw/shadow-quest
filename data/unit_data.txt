@@ -1,0 +1,9 @@
+(Player),player.png,Player,N/A,100,26,600
+Prince Aldric,prince.png,Villager,N/A,1,0,0
+Elvira,shaman.png,Villager,N/A,1,0,0
+Garth,peasant.png,Villager,N/A,1,0,0
+Giant Bat,dreadbat.png,Monster,Passive,40,0,0
+Zombie,zombie.png,Monster,Aggressive,60,10,800
+Bandit,bandit.png,Monster,Aggressive,40,8,200
+Skeleton,skeleton.png,Monster,Aggressive,100,16,500
+Draelic,necromancer.png,Monster,Aggressive,140,30,400
